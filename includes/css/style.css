@@ -1,0 +1,4 @@
+.wlmtest_success { font-weight:bold; color:#009C00; }
+.wlmtest_fail { font-weight:bold; color:red; }
+.wlmtest_toogle_trigger {font-size: 80%; color:blue; text-decoration: underline; }
+
